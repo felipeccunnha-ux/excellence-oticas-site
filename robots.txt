@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://excellenceoticas.com.br/sitemap.xml
